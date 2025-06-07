@@ -1,0 +1,5 @@
+npm install groq-sdk
+# or
+yarn add groq-sdk
+# or
+pnpm add groq-sdk
